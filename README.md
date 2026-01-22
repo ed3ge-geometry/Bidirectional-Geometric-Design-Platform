@@ -9,3 +9,5 @@ This platform was developed as a part of JST CREST, Evolving Design and Discrete
 - Piecewise developable surface (PDS) without explicit meshes
 - Inverse design of PDS shell using structural optimization and machine learning
 - Shape design of shells for specified stress distribution
+
+Once you unpack the .zip file, place the "ED3GE_Tools" folder containing the user object and related files into your Grasshopper UserObjects folder. Then, the "ED3GE_Tools" tab will appear on your Grasshopper window.
