@@ -11,3 +11,5 @@ This platform was developed as a part of JST CREST, Evolving Design and Discrete
 - Shape design of shells for specified stress distribution
 
 To install the tool, you first need to create the "ED3GE_Tools" folder in your Grasshopper UserObjects folder. Then, place the ghuser files and unzipped folders in the "ED3GE_Tools" folder. The "ED3GE_Tools" tab will appear on your Grasshopper window.
+
+You can find the documentation [here](https://drive.google.com/drive/folders/1vSBBiEQS-wUo5r4mWuFKtXvNiCyTjMug?usp=sharing"Documentation"). 
